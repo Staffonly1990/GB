@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Личный сайт студента GeekBrains</title>
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript">
+		
+		var answer = parseInt(Math.random()*12);
+		var tryCount = 0;
+		var maxTryCount = 6;
+		var tap = 1;
+		function readInt()
+		{
+			var namber = document.getElementById("UsAnss").value;
+			return parseInt(namber);
+		}
+		
+		function write(text)
+		{
+			document.getElementById("info").innerHTML = text;
+		}
+		
+		function write_player(text_player)
+		{
+			document.getElementById("info_player").innerHTML = text_player;
+		}
+		function hide(id)
+		{
+			document.getElementById(id).style.display = "none";
+		}
+		
+		function guess()
+		{
+			tryCount++;
+
+			var UsAnss = readInt();
+			if (UsAnss == answer)
+			{
+				write("<b>Yes</b>");
+				hide("button");
+				hide("UsAnss");
+				breack;
+			}
+			else if (tryCount >= maxTryCount)
+			{
+				write("Вы проиграли<br>Правильный ответ: " + answer);
+				hide("button");
+				hide("UsAnss");
+				breack;
+			}
+			else if(UsAnss>answer)
+			{
+				write("Введите число поменьше");
+			}
+			else if(UsAnss<answer)
+			{
+				write("Введите число побольше");
+			}
+			tap++;
+			if(tap%2==0)
+			{
+				write_player("Игрок 2");
+			}
+			else
+			{
+				write_player("Игрок 1");
+			}
+		}
+		
+	</script>
+</head>
+<body>
+	<div id="header">
+		<a href="index.html">Главная</a>
+		<span>/</span>
+		<a href="puzzle.html">Загадки</a>
+		<span>/</span>
+		<a href="#">Угадайка</a>
+	</div>
+
+
+<div id="contentWrap">
+	<div id="content">
+		<div id="ccenter">
+	
+			<h1>Угадайка</h1>
+		
+			<div id="box">
+				<p id = "info_player"> Игрок 1</p>
+				<p id = "info"> Угадайте число от 0 до 12</p>
+				<input type="text" id="UsAnss">
+				<br>
+				<a href="#" onClick="guess();" id = "button">START</a>
+			</div>
+		
+		</div>
+	</div>
+</div>
+	<div id="footer">
+		Copyright &copy; Sergey Demin
+	</div>
+</body>
+</html>

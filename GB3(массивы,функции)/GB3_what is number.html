@@ -1,0 +1,37 @@
+<mate charset="utf-8">
+<script>
+
+	function compAnsw (us_ans, auto_ans)
+	{
+		if (us_ans == auto_ans)
+		{
+			alert("Yes");
+		}
+		else
+		{
+			alert("No. True = " + auto_ans);
+		}
+	}	
+	function random_numb(max)
+	{
+		return parseInt(Math.random() * max);
+	}
+
+	var numb = [];
+	for(i=0; i<5; i++)
+	{
+		numb.push(random_numb(100));
+	}
+
+	alert("Запомни " + numb);
+
+	var us_answ = +prompt("Num 1 ?");
+	compAnsw(us_answ, numb[0]);
+
+	us_answ = +prompt("Last num ?");
+	compAnsw(us_answ, numb[numb.length-1]);
+
+	var n = random_numb(numb.length);
+	us_answ = +prompt("What is num " + (n+1) + "?");
+	compAnsw(us_answ, numb[n]);
+</script>

@@ -1,0 +1,60 @@
+<mate charset="utf-8">
+<script>
+	var true_answer = 0;
+	var answer_1 = prompt("2 + 1 = ?");
+	answer_1 = answer_1.toLowerCase;
+	if (answer_1 == 3 || answer_1 == "три") 
+		{
+		alert("Верно");
+		true_answer++;
+		}
+	else
+		{
+		alert("Не верно");
+		}
+
+	var answer_2 = prompt("2 + 2 = ?");
+	answer_2 = answer_2.toLowerCase;
+	if (answer_2 == 4 || answer_2 == "четыре") 
+		{
+		alert("Верно");
+		true_answer++;
+		}
+	else
+		{
+		alert("Не верно");
+		}
+
+	var answer_3 = prompt("2 + 3 = ?");
+	answer_3 = answer_3.toLowerCase;
+	if (answer_3 == 5 || answer_3 == "пять") 
+		{
+		alert("Верно");
+		true_answer++;
+		}
+	else
+		{
+		alert("Не верно");
+		}
+
+	alert("Игра окончена");
+	document.write("Верных ответов " + true_answer + "<br>");
+	if(true_answer == 0)
+		{
+		document.write("Худший результат")
+		}
+	else if(true_answer == 1)
+		{
+		document.write("Плохой результат")
+		}
+	else if(true_answer == 2)
+		{
+		document.write("Средний результат")
+		}
+	else if (true_answer == 3)
+		{
+		document.write("Лучший результат")
+		}
+	
+
+</script>

@@ -1,0 +1,7 @@
+C:\Users\Demin\source\repos\BG_4\GB_4_\bin\Debug\GB_4_.exe.config
+C:\Users\Demin\source\repos\BG_4\GB_4_\bin\Debug\GB_4_.exe
+C:\Users\Demin\source\repos\BG_4\GB_4_\bin\Debug\GB_4_.pdb
+C:\Users\Demin\source\repos\BG_4\GB_4_\obj\Debug\GB_4_.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\BG_4\GB_4_\obj\Debug\GB_4_.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\BG_4\GB_4_\obj\Debug\GB_4_.exe
+C:\Users\Demin\source\repos\BG_4\GB_4_\obj\Debug\GB_4_.pdb

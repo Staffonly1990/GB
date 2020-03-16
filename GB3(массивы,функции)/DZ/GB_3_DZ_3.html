@@ -1,0 +1,53 @@
+<metacharset="utf-8">
+<script>
+var tap = 1;
+var answer= parseInt(Math.random() * 100);
+alert("Для выхода напишите - выход");
+	
+	function script(player,tap_f)
+		{
+			if (tap % 2 == 0)
+			{
+			return alert(player[0]);
+			}
+		else
+			{
+			return alert(player[1]);
+			}
+		}
+	
+	while(true)
+		{
+		script(["Игрок 1 ходит", "Игрок 2 ходит"], tap++);
+		
+		var userAnswer= prompt("Угадайте число от 0 до 100");
+		
+		
+		if (userAnswer == "выход")
+			{
+			script(["Игрок 1 сдался", "Игрок 2 сдался"], tap);
+			break;
+			}
+		userAnswer = parseInt(userAnswer);	
+
+		if(userAnswer> answer) 
+			{
+			alert("Ваш ответ слишком большой.");
+			} 
+		else if(userAnswer< answer) 
+			{
+			alert("Ваш ответ слишком маленький.");
+			} 
+		else if(userAnswer== answer) 
+			{
+			script(["Игрок 1 победил", "Игрок 2 победил"], tap);
+			break;
+			}
+		
+		else
+			{
+			alert("Необходимо ввести число!");	
+			}
+		}
+
+</script>

@@ -1,0 +1,7 @@
+C:\Users\Demin\source\repos\EGE\EGE\bin\Debug\EGE.exe.config
+C:\Users\Demin\source\repos\EGE\EGE\bin\Debug\EGE.exe
+C:\Users\Demin\source\repos\EGE\EGE\bin\Debug\EGE.pdb
+C:\Users\Demin\source\repos\EGE\EGE\obj\Debug\EGE.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\EGE\EGE\obj\Debug\EGE.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\EGE\EGE\obj\Debug\EGE.exe
+C:\Users\Demin\source\repos\EGE\EGE\obj\Debug\EGE.pdb

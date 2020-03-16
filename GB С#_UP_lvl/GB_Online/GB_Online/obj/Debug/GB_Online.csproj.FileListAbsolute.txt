@@ -1,0 +1,7 @@
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\bin\Debug\GB_Online.exe.config
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\bin\Debug\GB_Online.exe
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\bin\Debug\GB_Online.pdb
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\obj\Debug\GB_Online.csprojAssemblyReference.cache
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\obj\Debug\GB_Online.csproj.CoreCompileInputs.cache
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\obj\Debug\GB_Online.exe
+C:\Users\Demin\Desktop\GB\GB online\GB_Online\GB_Online\obj\Debug\GB_Online.pdb

@@ -1,0 +1,48 @@
+<mate charset="utf-8">
+<script>
+
+	alert("Hy man");
+
+	function genText (mass_letter, long)
+	{
+		var text1 = "";
+		for(i=0;i<long;i++)
+		{
+			var random = randomNamber(mass_letter.length)
+			var text1 = text1 + mass_letter[random];
+		}
+		return text1;
+	}
+
+	function randomNamber (n)
+	{
+		return parseInt(Math.random()*n)
+	}
+	
+	function script(massage,n)
+	{
+	
+		do
+		{
+			alert(massage);
+
+			var text = genText(n, 10);
+			var usText = prompt(text);
+
+			if (text == usText)
+			{
+				alert("Yes");
+			}
+			else
+			{
+				alert("No");
+			}
+		}
+		while(text != usText)
+	
+	}
+	script("Не смотри на клаву, подготовь руку. Будем тыкать Ф и А.\nГотов?",["а", "ф"]);
+	script("Поставьте мизинец левой руки на букву Ф,\nбезымянный палец — на Ы,\nсредний — на В,\nуказательный — на А.\nМизинец правой руки на букву Ж,\nбезымянный палец — на Д,\nсредний — на Л,\nуказательный — на О.\nЗапомните расположение пальцев.\nПовторяйте за мной",["ы", "в"]);
+	script("Поставьте мизинец левой руки на букву Ф,\nбезымянный палец — на Ы,\nсредний — на В,\nуказательный — на А.\nМизинец правой руки на букву Ж,\nбезымянный палец — на Д,\nсредний -— на Л,\nуказательный — на О.\nЗапомните расположение пальцев",["о", "ж"]);
+
+</script>

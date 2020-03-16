@@ -1,0 +1,48 @@
+<mate charset="utf-8">
+<script>
+
+function lvlWords(words)
+{
+	while(words.length != 0)
+	{
+		var random_numb = parseInt(Math.random() * words.length);
+		var us_answ = prompt("Как переводится слово " + words[random_numb][0]);
+		if (us_answ == words[random_numb][1])
+		{
+			alert("Да");
+			words.splice(random_numb, 1);
+		}
+		else
+		{
+			alert("Нет");
+			alert("Ответ " + words[random_numb][1]);
+		}
+	}
+}
+
+var lvl_1_words = 
+[
+["Food", "еда"],
+["Bike", "велосипед"],
+["Apple", "яблоко"],
+["Do", "делать"],
+["Mean", "иметь в виду"]
+];
+
+lvlWords(lvl_1_words);
+alert("Ты все запомнил");
+
+var lvl_2_words =
+[
+["Chainsaw", "бензопила"],
+["Squirrel", "белка"],
+["Castle", "замок"],
+["Homeland", "родина"],
+["Sewerage", "канализация"],
+["Bottom", "дно"]
+];
+
+lvlWords(lvl_2_words);
+alert("Ты все запомнил");
+
+</script>

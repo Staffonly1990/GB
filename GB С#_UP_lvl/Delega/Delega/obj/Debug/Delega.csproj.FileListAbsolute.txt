@@ -1,0 +1,7 @@
+C:\Users\Demin\source\repos\Delega\Delega\bin\Debug\Delega.exe.config
+C:\Users\Demin\source\repos\Delega\Delega\bin\Debug\Delega.exe
+C:\Users\Demin\source\repos\Delega\Delega\bin\Debug\Delega.pdb
+C:\Users\Demin\source\repos\Delega\Delega\obj\Debug\Delega.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\Delega\Delega\obj\Debug\Delega.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\Delega\Delega\obj\Debug\Delega.exe
+C:\Users\Demin\source\repos\Delega\Delega\obj\Debug\Delega.pdb

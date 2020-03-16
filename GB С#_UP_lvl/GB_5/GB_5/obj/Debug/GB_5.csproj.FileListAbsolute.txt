@@ -1,0 +1,7 @@
+C:\Users\Demin\source\repos\GB_5\GB_5\bin\Debug\GB_5.exe.config
+C:\Users\Demin\source\repos\GB_5\GB_5\bin\Debug\GB_5.exe
+C:\Users\Demin\source\repos\GB_5\GB_5\bin\Debug\GB_5.pdb
+C:\Users\Demin\source\repos\GB_5\GB_5\obj\Debug\GB_5.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\GB_5\GB_5\obj\Debug\GB_5.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\GB_5\GB_5\obj\Debug\GB_5.exe
+C:\Users\Demin\source\repos\GB_5\GB_5\obj\Debug\GB_5.pdb

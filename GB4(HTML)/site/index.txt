@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Личный сайт студента GeekBrains</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<a href="#">Главная</a>
+		<span>/</span>
+		<a href="puzzle.html">Загадки</a>
+		<span>/</span>
+		<a href="quess.html">Угадайка</a>
+	</div>
+	<div id="content">
+		<h1>Мой первый сайт</h1>
+		<div id="center">
+			<img src="img/photo.png" width="390" height="390" alt="фотография">
+			<div id="box_text">
+				<p>
+					Всем привет!!!</br>
+					Меня зовут Сергей Демин.<br>
+					Я — начинающий программист.
+					Изучаю C# и уже успел написать несколько простеньких программ.
+				</p>
+				<p>
+					В обучении мне помогла компания 
+					<a href="https://geekbrains.ru/courses/2" target="_blank"> GeekBrains</a>.
+				</p>
+				<p>
+					На этом сайте вы сможете поиграть в пару игр, которые я написал:
+				</p>
+				<a href="puzzle.html">Загадки</a>
+				<a href="quess.html">Угадайка</a>
+				<br><br>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		Copyright &copy; <?php echo "2020";?> Sergey Demin
+	</div>
+</body>
+</html>

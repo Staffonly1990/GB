@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Пример документа</title>
+	<meta charset="utf-8">
+	<script>
+	function checkAnswer(id, trueAnswer) 
+	{
+		var userAnswer = document.getElementById(id).value;
+		return userAnswer == trueAnswer;
+	}
+	function checkAnswers()
+	{
+		var correctAnswers = 0;
+		if(checkAnswer('puzzle1', 'капуста'))
+			correctAnswers++;
+		if(checkAnswer('puzzle2', 'елка'))
+			correctAnswers++;
+		alert('Количествоправильныхответов:'+ correctAnswers);
+	}
+	</script>
+</head>
+<body>
+<h3>Отгадай загадки!</h3>
+<p>
+	Сто одежек и все без застежек
+</p>
+<input type="text"id="puzzle1">
+<br><br><br>
+<p>
+	Зимой и летом одним цветом
+</p>
+<input type="text"id="puzzle2">
+<br><br><br>
+<button onclick="checkAnswers();">Ответить</button>
+</body>
+</html>

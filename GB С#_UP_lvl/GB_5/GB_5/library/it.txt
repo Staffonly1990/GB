@@ -1,0 +1,25 @@
+Artificial intelligence is often portrayed as a rising competitor for human intelligence, in settings ranging from human-vs.-machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines.
+
+Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said Saturday during a lecture at the annual meeting of the American Association for the Advancement of Science in Seattle.
+
+He ticked off several examples where humans and AI agents can create a whole that’s greater than the sum of its parts.
+
+One of the examples comes from a study of medical diagnostic capabilities. The study, known as the Camelyon Grand Challenge, gauged how well different types of trained AI agents could diagnose breast cancer, based on an analysis of digitized lymph-node sections.
+
+“It turns out the deep neural networks were the best, but maybe to the joy of pathologists, humans were still superior,” Horvitz said.
+
+The best pathologist achieved a 3.4% error rate, including false positives as well as false negatives. But here’s the twist: When the pathologist’s assessment was supplemented by AI input, that error rate fell to 0.5%. “If you do the math, that’s an 85% reduction in errors,” Horvitz said.
+
+“More recently, in a work that’s under submission right now, our team showed [that] taking the same data set, you can build a neural net that folds human abilities and machine abilities into one optimization to squeeze even more complementarity into the system,” he said. “The basic idea is, you’re putting more of the machine learning effort into places where the humans aren’t good.”
+
+Future diagnostic systems could use AI’s strengths to anticipate situations where humans are most likely to fail.
+
+“You can build systems that are watching out and then predicting way in advance — you know, eight hours, 12 hours, 24 hours — that this patient there will likely need a life-saving intervention within that time period,” Horvitz said.
+
+And this approach can work for more than medical clinics: Horvitz noted that Microsoft’s HoloLens 2 augmented-reality system incorporates cartoons of the user’s virtual hands performing a given operation. The hand-tracking feature that builds on the interplay between an AI simulation and real-world gestures.
+
+“It’s just really fun to have your hands in this space where you’re literally controlling artifacts in virtual space at very, very high fidelity,” he said. “This kind of thing was not available until we had the deep-learning revolution.”
+
+The next step could well be what Horvitz calls integrative AI.
+
+“We take separate specific systems like dialogue systems, machine vision and speech recognition, computational control, and build new kinds of systems that weave these different capabilities together to build, for example, an assistant that can speak, listen, understand and engage with human beings,” he said. “There’s a system outside my door at Microsoft Research where we’ve been experimenting with this methodology, using what’s called the Platform for Situated Intelligence.”

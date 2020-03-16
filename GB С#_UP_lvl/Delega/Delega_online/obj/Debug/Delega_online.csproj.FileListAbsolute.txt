@@ -1,0 +1,7 @@
+C:\Users\Demin\source\repos\Delega\Delega_online\bin\Debug\Delega_online.exe.config
+C:\Users\Demin\source\repos\Delega\Delega_online\bin\Debug\Delega_online.exe
+C:\Users\Demin\source\repos\Delega\Delega_online\bin\Debug\Delega_online.pdb
+C:\Users\Demin\source\repos\Delega\Delega_online\obj\Debug\Delega_online.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\Delega\Delega_online\obj\Debug\Delega_online.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\Delega\Delega_online\obj\Debug\Delega_online.exe
+C:\Users\Demin\source\repos\Delega\Delega_online\obj\Debug\Delega_online.pdb

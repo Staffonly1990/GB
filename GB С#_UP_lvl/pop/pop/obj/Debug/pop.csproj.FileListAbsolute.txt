@@ -1,0 +1,7 @@
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\bin\Debug\pop.exe.config
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\bin\Debug\pop.exe
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\bin\Debug\pop.pdb
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\obj\Debug\pop.csprojAssemblyReference.cache
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\obj\Debug\pop.csproj.CoreCompileInputs.cache
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\obj\Debug\pop.exe
+C:\Users\Demin\Desktop\GB\GB online\pop\pop\obj\Debug\pop.pdb

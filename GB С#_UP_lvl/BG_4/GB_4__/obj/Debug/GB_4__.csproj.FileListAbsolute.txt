@@ -1,0 +1,14 @@
+C:\Users\Demin\source\repos\BG_4\GB_4__\bin\Debug\GB_4__.exe.config
+C:\Users\Demin\source\repos\BG_4\GB_4__\bin\Debug\GB_4__.exe
+C:\Users\Demin\source\repos\BG_4\GB_4__\bin\Debug\GB_4__.pdb
+C:\Users\Demin\source\repos\BG_4\GB_4__\obj\Debug\GB_4__.csprojAssemblyReference.cache
+C:\Users\Demin\source\repos\BG_4\GB_4__\obj\Debug\GB_4__.csproj.CoreCompileInputs.cache
+C:\Users\Demin\source\repos\BG_4\GB_4__\obj\Debug\GB_4__.exe
+C:\Users\Demin\source\repos\BG_4\GB_4__\obj\Debug\GB_4__.pdb
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\bin\Debug\GB_4__.exe.config
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\bin\Debug\GB_4__.exe
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\bin\Debug\GB_4__.pdb
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\obj\Debug\GB_4__.csprojAssemblyReference.cache
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\obj\Debug\GB_4__.csproj.CoreCompileInputs.cache
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\obj\Debug\GB_4__.exe
+C:\Users\Demin\Desktop\GB\GB online\BG_4\GB_4__\obj\Debug\GB_4__.pdb
